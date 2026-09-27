@@ -1,0 +1,31 @@
+{
+  "_note": "SYNTHETIC demo profiles for the AI-Powered Personal Diet Planner. Not real health data. Educational use only.",
+  "profiles": [
+    {
+      "name": "Demo Aasha",
+      "email": "aasha@demo.com",
+      "password": "Demo@12345",
+      "age": 28,
+      "height_cm": 165,
+      "weight_kg": 68,
+      "activity_level": "moderate",
+      "dietary_preference": "vegetarian",
+      "goal": "weight_loss",
+      "allergies": "nuts",
+      "meals_per_day": 3
+    },
+    {
+      "name": "Demo Vikram",
+      "email": "vikram@demo.com",
+      "password": "Demo@12345",
+      "age": 31,
+      "height_cm": 175,
+      "weight_kg": 62,
+      "activity_level": "active",
+      "dietary_preference": "non_vegetarian",
+      "goal": "weight_gain",
+      "allergies": "",
+      "meals_per_day": 4
+    }
+  ]
+}

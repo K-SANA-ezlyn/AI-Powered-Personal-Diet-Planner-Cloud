@@ -1,0 +1,9 @@
+The README links `docs/assets/architecture.png`.
+
+Generate it from the text diagram in `docs/architecture.md` using any of:
+- https://asciiflow.com  (paste the diagram, export PNG)
+- https://excalidraw.com (redraw, export PNG)
+- draw.io / diagrams.net
+
+Until the PNG exists, GitHub shows the alt text — harmless. Or replace the
+image link in README.md with a fenced code block copy of the diagram.
